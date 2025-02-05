@@ -14,11 +14,10 @@
 #include <unordered_set>
 #include <thread>
 #include <mutex>
+
 using namespace std;
-//defining port number
-#define PORT 12345
-//defining buffer size
-#define BUFFER_SIZE 1024
+#define PORT 12345 //defining port number
+#define BUFFER_SIZE 1024 //defining buffer size
 
 //data management
 unordered_map<string, int>clients; //unordered map, username > client socket

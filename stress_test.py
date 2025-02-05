@@ -5,10 +5,10 @@ import random
 import logging
 
 # Server configuration
-SERVER_IP = "127.0.0.1"  # Change if needed
+SERVER_IP = "127.0.0.1" 
 PORT = 12345
 MESSAGES_PER_CLIENT = 20
-MAX_THREADS_PER_USER = 5  # Gradually increase up to this value
+MAX_THREADS_PER_USER = 5 
 
 # Logging setup
 logging.basicConfig(

@@ -1,0 +1,665 @@
+2025-02-03 15:32:30,945 [INFO] [LOGGED IN] alice (Thread-1)
+2025-02-03 15:32:30,946 [INFO] [MESSAGE SENT] alice (Thread-1) -> group_action (0.0002s) | Response: Group group_4 created successfully, and you are added as the first member.
+2025-02-03 15:32:31,445 [INFO] [LOGGED IN] alice (Thread-2)
+2025-02-03 15:32:31,446 [INFO] [MESSAGE SENT] alice (Thread-2) -> private (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:31,618 [INFO] [MESSAGE SENT] alice (Thread-1) -> group_action (0.0006s) | Response: Group group_4 already exists!
+2025-02-03 15:32:31,946 [INFO] [LOGGED IN] alice (Thread-3)
+2025-02-03 15:32:31,948 [INFO] [MESSAGE SENT] alice (Thread-3) -> group (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:31,987 [INFO] [MESSAGE SENT] alice (Thread-2) -> group (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:32,197 [INFO] [MESSAGE SENT] alice (Thread-3) -> group (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:32,319 [INFO] [MESSAGE SENT] alice (Thread-2) -> broadcast (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:32,447 [INFO] [LOGGED IN] alice (Thread-4)
+2025-02-03 15:32:32,449 [INFO] [MESSAGE SENT] alice (Thread-4) -> private (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:32,526 [INFO] [MESSAGE SENT] alice (Thread-1) -> group (0.0007s) | Response: Message sent to group group_4.
+2025-02-03 15:32:32,884 [INFO] [MESSAGE SENT] alice (Thread-2) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:32,904 [INFO] [MESSAGE SENT] alice (Thread-3) -> group_action (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:32,949 [INFO] [LOGGED IN] alice (Thread-5)
+2025-02-03 15:32:32,951 [INFO] [MESSAGE SENT] alice (Thread-5) -> private (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:33,143 [INFO] [MESSAGE SENT] alice (Thread-4) -> group_action (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:33,149 [INFO] [MESSAGE SENT] alice (Thread-3) -> group (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:33,414 [INFO] [MESSAGE SENT] alice (Thread-4) -> broadcast (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:33,428 [INFO] [MESSAGE SENT] alice (Thread-5) -> broadcast (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:33,453 [INFO] [LOGGED IN] bob (Thread-1)
+2025-02-03 15:32:33,454 [INFO] [MESSAGE SENT] alice (Thread-1) -> broadcast (0.7060s) | Response: [Broadcast from bob] Hello from bob (Thread-1)
+2025-02-03 15:32:33,542 [INFO] [MESSAGE SENT] alice (Thread-2) -> group (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:33,564 [INFO] [MESSAGE SENT] alice (Thread-3) -> group (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:33,937 [INFO] [MESSAGE SENT] alice (Thread-2) -> group (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:33,943 [INFO] [MESSAGE SENT] alice (Thread-3) -> broadcast (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:33,952 [INFO] [LOGGED IN] bob (Thread-2)
+2025-02-03 15:32:33,953 [INFO] [MESSAGE SENT] bob (Thread-2) -> group (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:34,073 [INFO] [MESSAGE SENT] alice (Thread-3) -> private (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:34,075 [INFO] [MESSAGE SENT] alice (Thread-4) -> broadcast (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:34,105 [INFO] [MESSAGE SENT] bob (Thread-1) -> broadcast (0.6510s) | Response: [Broadcast from alice] Hello from alice (Thread-1)
+2025-02-03 15:32:34,264 [INFO] [MESSAGE SENT] bob (Thread-2) -> broadcast (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:34,364 [INFO] [MESSAGE SENT] alice (Thread-5) -> group_action (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:34,372 [INFO] [MESSAGE SENT] alice (Thread-2) -> private (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:34,392 [INFO] [MESSAGE SENT] alice (Thread-4) -> group (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:34,456 [INFO] [LOGGED IN] bob (Thread-3)
+2025-02-03 15:32:34,458 [INFO] [MESSAGE SENT] bob (Thread-3) -> private (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:34,576 [INFO] [MESSAGE SENT] alice (Thread-3) -> group (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:34,612 [INFO] [MESSAGE SENT] bob (Thread-3) -> private (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:34,730 [INFO] [MESSAGE SENT] bob (Thread-2) -> group (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:34,834 [INFO] [MESSAGE SENT] alice (Thread-3) -> group_action (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:34,883 [INFO] [MESSAGE SENT] bob (Thread-1) -> private (0.0004s) | Response: User eve not found!
+2025-02-03 15:32:34,912 [INFO] [MESSAGE SENT] alice (Thread-4) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:34,960 [INFO] [LOGGED IN] bob (Thread-4)
+2025-02-03 15:32:34,961 [INFO] [MESSAGE SENT] bob (Thread-4) -> group (0.0000s) | Response: Enter the password:
+2025-02-03 15:32:35,025 [INFO] [MESSAGE SENT] alice (Thread-2) -> group (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:35,157 [INFO] [MESSAGE SENT] alice (Thread-2) -> group_action (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:35,222 [INFO] [MESSAGE SENT] alice (Thread-5) -> private (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:35,268 [INFO] [MESSAGE SENT] alice (Thread-3) -> group_action (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:35,330 [INFO] [MESSAGE SENT] alice (Thread-2) -> group (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:35,373 [INFO] [MESSAGE SENT] bob (Thread-2) -> private (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:35,473 [INFO] [LOGGED IN] bob (Thread-5)
+2025-02-03 15:32:35,474 [INFO] [MESSAGE SENT] bob (Thread-5) -> private (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:35,487 [INFO] [MESSAGE SENT] alice (Thread-3) -> broadcast (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:35,541 [INFO] [MESSAGE SENT] bob (Thread-3) -> broadcast (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:35,567 [INFO] [MESSAGE SENT] bob (Thread-1) -> group (0.0005s) | Response: You are not a member of the group group_4.
+2025-02-03 15:32:35,581 [INFO] [MESSAGE SENT] alice (Thread-4) -> group (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:35,591 [INFO] [MESSAGE SENT] bob (Thread-4) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:35,766 [INFO] [MESSAGE SENT] bob (Thread-4) -> group (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:35,774 [INFO] [MESSAGE SENT] bob (Thread-1) -> group_action (0.0005s) | Response: Group group_4 already exists!
+2025-02-03 15:32:35,858 [INFO] [MESSAGE SENT] bob (Thread-5) -> group (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:35,859 [INFO] [MESSAGE SENT] bob (Thread-3) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:35,880 [INFO] [MESSAGE SENT] alice (Thread-2) -> group_action (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:35,985 [INFO] [LOGGED IN] charlie (Thread-1)
+2025-02-03 15:32:35,987 [INFO] [MESSAGE SENT] alice (Thread-1) -> broadcast (1.8833s) | Response: [Broadcast from charlie] Hello from charlie (Thread-1)
+2025-02-03 15:32:36,027 [INFO] [MESSAGE SENT] alice (Thread-5) -> group_action (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:36,249 [INFO] [MESSAGE SENT] bob (Thread-5) -> group (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:36,278 [INFO] [MESSAGE SENT] bob (Thread-3) -> group_action (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:36,283 [INFO] [MESSAGE SENT] bob (Thread-2) -> private (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:36,292 [INFO] [MESSAGE SENT] alice (Thread-5) -> group (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:36,341 [INFO] [MESSAGE SENT] alice (Thread-1) -> group (0.0007s) | Response: Message sent to group group_4.
+2025-02-03 15:32:36,360 [INFO] [MESSAGE SENT] bob (Thread-1) -> group_action (0.0002s) | Response: [Broadcast from charlie] Hello from charlie (Thread-1)
+2025-02-03 15:32:36,372 [INFO] [MESSAGE SENT] bob (Thread-4) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:36,408 [INFO] [MESSAGE SENT] alice (Thread-4) -> group (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:36,464 [INFO] [MESSAGE SENT] alice (Thread-3) -> group_action (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:36,487 [INFO] [LOGGED IN] charlie (Thread-2)
+2025-02-03 15:32:36,488 [INFO] [MESSAGE SENT] charlie (Thread-2) -> group_action (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:36,581 [INFO] [MESSAGE SENT] alice (Thread-3) -> group_action (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:36,591 [INFO] [MESSAGE SENT] alice (Thread-2) -> broadcast (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:36,699 [INFO] [MESSAGE SENT] charlie (Thread-2) -> broadcast (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:36,780 [INFO] [MESSAGE SENT] bob (Thread-5) -> broadcast (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:36,830 [INFO] [MESSAGE SENT] bob (Thread-1) -> private (0.0002s) | Response: You have successfully joined the group group_4.
+2025-02-03 15:32:36,871 [INFO] [MESSAGE SENT] alice (Thread-5) -> group (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:36,877 [INFO] [MESSAGE SENT] bob (Thread-4) -> broadcast (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:36,880 [INFO] [MESSAGE SENT] charlie (Thread-2) -> group_action (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:36,906 [INFO] [MESSAGE SENT] bob (Thread-2) -> group_action (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:37,000 [INFO] [LOGGED IN] charlie (Thread-3)
+2025-02-03 15:32:37,001 [INFO] [MESSAGE SENT] charlie (Thread-3) -> group_action (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:37,033 [INFO] [MESSAGE SENT] alice (Thread-1) -> broadcast (0.0002s) | Response: bob has joined the group group_4.
+2025-02-03 15:32:37,033 [INFO] [MESSAGE SENT] charlie (Thread-1) -> broadcast (1.0469s) | Response: [Broadcast from alice] Hello from alice (Thread-1)
+2025-02-03 15:32:37,040 [INFO] [MESSAGE SENT] bob (Thread-3) -> group_action (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:37,109 [INFO] [MESSAGE SENT] alice (Thread-4) -> broadcast (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:37,145 [INFO] [MESSAGE SENT] bob (Thread-4) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:37,187 [INFO] [MESSAGE SENT] bob (Thread-2) -> group_action (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:37,368 [INFO] [MESSAGE SENT] bob (Thread-5) -> private (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:37,382 [INFO] [MESSAGE SENT] bob (Thread-2) -> broadcast (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:37,454 [INFO] [MESSAGE SENT] alice (Thread-5) -> group_action (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:37,468 [INFO] [MESSAGE SENT] bob (Thread-4) -> broadcast (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:37,503 [INFO] [MESSAGE SENT] alice (Thread-3) -> group_action (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:37,514 [INFO] [LOGGED IN] charlie (Thread-4)
+2025-02-03 15:32:37,515 [INFO] [MESSAGE SENT] alice (Thread-1) -> group (0.0007s) | Response: Message sent to group group_4.
+2025-02-03 15:32:37,516 [INFO] [MESSAGE SENT] charlie (Thread-4) -> group_action (0.0003s) | Response: Enter the password:
+2025-02-03 15:32:37,534 [INFO] [MESSAGE SENT] alice (Thread-4) -> private (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:37,587 [INFO] [MESSAGE SENT] alice (Thread-2) -> private (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:37,650 [INFO] [MESSAGE SENT] alice (Thread-3) -> group_action (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:37,684 [INFO] [MESSAGE SENT] charlie (Thread-2) -> private (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:37,731 [INFO] [MESSAGE SENT] bob (Thread-1) -> group_action (0.0002s) | Response: [bob] Hello from bob (Thread-1)[Broadcast from alice] Hello from alice (Thread-1)[group_4] alice: Hello from alice (Thread-1)
+[Broadcast from alice] Hello from alice (Thread-1)
+2025-02-03 15:32:37,731 [INFO] [MESSAGE SENT] alice (Thread-1) -> broadcast (0.0354s) | Response: bob has joined the group group_4.
+2025-02-03 15:32:37,745 [INFO] [MESSAGE SENT] bob (Thread-2) -> broadcast (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:37,814 [INFO] [MESSAGE SENT] alice (Thread-4) -> group (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:37,841 [INFO] [MESSAGE SENT] charlie (Thread-3) -> group (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:37,881 [INFO] [MESSAGE SENT] bob (Thread-3) -> broadcast (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:38,016 [INFO] [MESSAGE SENT] alice (Thread-2) -> private (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:38,021 [INFO] [LOGGED IN] charlie (Thread-5)
+2025-02-03 15:32:38,022 [INFO] [MESSAGE SENT] charlie (Thread-5) -> broadcast (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:38,030 [INFO] [MESSAGE SENT] charlie (Thread-3) -> group_action (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:38,030 [INFO] [MESSAGE SENT] charlie (Thread-1) -> group_action (0.0007s) | Response: [Broadcast from alice] Hello from alice (Thread-1)Group group_3 does not exist!
+2025-02-03 15:32:38,069 [INFO] [MESSAGE SENT] alice (Thread-4) -> group (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:38,209 [INFO] [MESSAGE SENT] alice (Thread-2) -> private (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:38,253 [INFO] [MESSAGE SENT] bob (Thread-2) -> broadcast (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:38,262 [INFO] [MESSAGE SENT] alice (Thread-3) -> broadcast (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:38,271 [INFO] [MESSAGE SENT] charlie (Thread-5) -> private (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:38,275 [INFO] [MESSAGE SENT] alice (Thread-1) -> group (0.0007s) | Response: Message sent to group group_4.
+2025-02-03 15:32:38,327 [INFO] [MESSAGE SENT] bob (Thread-5) -> group (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:38,337 [INFO] [MESSAGE SENT] alice (Thread-5) -> group (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:38,347 [INFO] [MESSAGE SENT] charlie (Thread-4) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:38,383 [INFO] [MESSAGE SENT] charlie (Thread-1) -> group_action (0.0007s) | Response: Group group_3 does not exist!
+2025-02-03 15:32:38,418 [INFO] [MESSAGE SENT] bob (Thread-1) -> group_action (0.0002s) | Response: You have successfully joined the group group_4.
+[group_4] alice: Hello from alice (Thread-1)
+2025-02-03 15:32:38,435 [INFO] [MESSAGE SENT] bob (Thread-4) -> group_action (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:38,436 [INFO] [MESSAGE SENT] charlie (Thread-2) -> broadcast (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:38,452 [INFO] [MESSAGE SENT] charlie (Thread-4) -> private (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:38,477 [INFO] [MESSAGE SENT] bob (Thread-3) -> group (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:38,530 [INFO] [LOGGED IN] david (Thread-1)
+2025-02-03 15:32:38,555 [INFO] [MESSAGE SENT] alice (Thread-1) -> group (0.0002s) | Response: bob has joined the group group_4.
+2025-02-03 15:32:38,604 [INFO] [MESSAGE SENT] charlie (Thread-3) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:38,628 [INFO] [MESSAGE SENT] charlie (Thread-5) -> group (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:38,708 [INFO] [MESSAGE SENT] alice (Thread-4) -> group (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:38,710 [INFO] [MESSAGE SENT] alice (Thread-5) -> group_action (0.0003s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username: Enter the password:
+2025-02-03 15:32:38,795 [INFO] [MESSAGE SENT] charlie (Thread-2) -> group (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:38,807 [INFO] [MESSAGE SENT] alice (Thread-2) -> broadcast (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:38,895 [INFO] [MESSAGE SENT] bob (Thread-2) -> group (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:38,904 [INFO] [MESSAGE SENT] charlie (Thread-3) -> broadcast (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:38,979 [INFO] [MESSAGE SENT] charlie (Thread-4) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:39,024 [INFO] [LOGGED IN] david (Thread-2)
+2025-02-03 15:32:39,026 [INFO] [MESSAGE SENT] david (Thread-2) -> private (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:39,045 [INFO] [MESSAGE SENT] charlie (Thread-2) -> private (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:39,082 [INFO] [MESSAGE SENT] bob (Thread-1) -> private (0.0001s) | Response: You have successfully joined the group group_4.
+[david] Hello from david (Thread-1)[group_4] alice: Hello from alice (Thread-1)
+2025-02-03 15:32:39,132 [INFO] [MESSAGE SENT] charlie (Thread-5) -> group_action (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:39,172 [INFO] [MESSAGE SENT] bob (Thread-5) -> group_action (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:39,184 [INFO] [MESSAGE SENT] alice (Thread-2) -> group (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:39,188 [INFO] [MESSAGE SENT] charlie (Thread-1) -> group (0.0005s) | Response: You are not a member of the group group_3.
+2025-02-03 15:32:39,222 [INFO] [MESSAGE SENT] alice (Thread-3) -> group_action (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:39,256 [INFO] [MESSAGE SENT] bob (Thread-3) -> broadcast (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:39,308 [INFO] [MESSAGE SENT] david (Thread-2) -> group (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:39,320 [INFO] [MESSAGE SENT] charlie (Thread-4) -> group_action (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:39,324 [INFO] [MESSAGE SENT] alice (Thread-1) -> broadcast (0.0001s) | Response: Message sent to group group_4.
+2025-02-03 15:32:39,325 [INFO] [MESSAGE SENT] david (Thread-1) -> private (0.7937s) | Response: [Broadcast from alice] Hello from alice (Thread-1)
+2025-02-03 15:32:39,347 [INFO] [MESSAGE SENT] alice (Thread-3) -> group_action (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:39,350 [INFO] [MESSAGE SENT] charlie (Thread-1) -> group_action (0.0001s) | Response: [Broadcast from alice] Hello from alice (Thread-1)
+2025-02-03 15:32:39,355 [INFO] [MESSAGE SENT] charlie (Thread-3) -> group_action (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:39,362 [INFO] [MESSAGE SENT] alice (Thread-5) -> private (0.0040s) | Response: Authentication failed!
+2025-02-03 15:32:39,407 [INFO] [MESSAGE SENT] alice (Thread-4) -> group (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:39,426 [INFO] [MESSAGE SENT] bob (Thread-4) -> private (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:39,431 [INFO] [MESSAGE SENT] david (Thread-2) -> group_action (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:39,513 [INFO] [MESSAGE SENT] charlie (Thread-5) -> group (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:39,526 [INFO] [LOGGED IN] david (Thread-3)
+2025-02-03 15:32:39,527 [INFO] [MESSAGE SENT] david (Thread-3) -> group (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:39,530 [INFO] [MESSAGE SENT] bob (Thread-4) -> group (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:39,542 [INFO] [MESSAGE SENT] alice (Thread-2) -> group_action (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:39,555 [INFO] [MESSAGE SENT] charlie (Thread-3) -> group (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:39,645 [INFO] [MESSAGE SENT] bob (Thread-5) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:39,693 [INFO] [MESSAGE SENT] charlie (Thread-4) -> group (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:39,753 [INFO] [MESSAGE SENT] alice (Thread-5) -> group (0.0002s) | Response: Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:39,753 [INFO] [MESSAGE SENT] charlie (Thread-5) -> group_action (0.0008s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username: Enter the password:
+2025-02-03 15:32:39,849 [INFO] [MESSAGE SENT] alice (Thread-1) -> group (0.0007s) | Response: Message sent to group group_4.
+2025-02-03 15:32:39,863 [INFO] [MESSAGE SENT] bob (Thread-2) -> broadcast (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:39,903 [INFO] [MESSAGE SENT] bob (Thread-4) -> group_action (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:39,921 [INFO] [MESSAGE SENT] bob (Thread-1) -> group (0.0001s) | Response: User eve not found![Broadcast from alice] Hello from alice (Thread-1)[group_4] alice: Hello from alice (Thread-1)
+[Broadcast from david] Hello from david (Thread-1)
+2025-02-03 15:32:39,984 [INFO] [MESSAGE SENT] david (Thread-2) -> group (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:39,991 [INFO] [MESSAGE SENT] charlie (Thread-2) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:40,028 [INFO] [LOGGED IN] david (Thread-4)
+2025-02-03 15:32:40,029 [INFO] [MESSAGE SENT] david (Thread-4) -> group_action (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:40,139 [INFO] [MESSAGE SENT] bob (Thread-3) -> broadcast (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:40,143 [INFO] [MESSAGE SENT] charlie (Thread-3) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:40,156 [INFO] [MESSAGE SENT] alice (Thread-2) -> broadcast (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:40,160 [INFO] [MESSAGE SENT] charlie (Thread-2) -> group (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:40,165 [INFO] [MESSAGE SENT] bob (Thread-4) -> group_action (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:40,215 [INFO] [MESSAGE SENT] alice (Thread-4) -> group_action (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:40,292 [INFO] [MESSAGE SENT] bob (Thread-3) -> private (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:40,293 [INFO] [MESSAGE SENT] alice (Thread-3) -> broadcast (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:40,295 [INFO] [MESSAGE SENT] david (Thread-3) -> broadcast (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:40,297 [INFO] [MESSAGE SENT] charlie (Thread-1) -> group (0.0001s) | Response: Group group_3 does not exist!
+[Broadcast from david] Hello from david (Thread-1)
+2025-02-03 15:32:40,329 [INFO] [MESSAGE SENT] charlie (Thread-5) -> broadcast (0.0054s) | Response: Authentication failed!
+2025-02-03 15:32:40,400 [INFO] [MESSAGE SENT] alice (Thread-5) -> group (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:40,401 [INFO] [MESSAGE SENT] bob (Thread-1) -> private (0.0001s) | Response: Message sent to group group_4.
+2025-02-03 15:32:40,414 [INFO] [MESSAGE SENT] david (Thread-3) -> broadcast (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:40,434 [INFO] [MESSAGE SENT] bob (Thread-2) -> broadcast (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:40,459 [INFO] [MESSAGE SENT] charlie (Thread-4) -> group_action (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:40,526 [INFO] [MESSAGE SENT] bob (Thread-5) -> private (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:40,528 [INFO] [LOGGED IN] david (Thread-5)
+2025-02-03 15:32:40,529 [INFO] [MESSAGE SENT] david (Thread-5) -> private (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:40,530 [INFO] [MESSAGE SENT] charlie (Thread-1) -> group_action (0.0001s) | Response: You are not a member of the group group_3.
+2025-02-03 15:32:40,533 [INFO] [MESSAGE SENT] bob (Thread-3) -> group (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:40,644 [INFO] [MESSAGE SENT] david (Thread-4) -> group_action (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:40,667 [INFO] [MESSAGE SENT] alice (Thread-4) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:40,704 [INFO] [MESSAGE SENT] bob (Thread-1) -> group_action (0.0007s) | Response: You have successfully joined the group group_4.
+2025-02-03 15:32:40,750 [INFO] [MESSAGE SENT] alice (Thread-1) -> private (0.0001s) | Response: [Broadcast from david] Hello from david (Thread-1)[group_4] bob: Hello from bob (Thread-1)
+[bob] Hello from bob (Thread-1)bob has joined the group group_4.
+2025-02-03 15:32:40,750 [INFO] [MESSAGE SENT] david (Thread-1) -> broadcast (0.8713s) | Response: [alice] Hello from alice (Thread-1)
+2025-02-03 15:32:40,788 [INFO] [MESSAGE SENT] david (Thread-2) -> private (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:40,823 [INFO] [MESSAGE SENT] charlie (Thread-2) -> group_action (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:40,851 [INFO] [MESSAGE SENT] charlie (Thread-3) -> group_action (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:40,861 [INFO] [MESSAGE SENT] david (Thread-3) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:40,900 [INFO] [MESSAGE SENT] bob (Thread-4) -> group (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:40,958 [INFO] [MESSAGE SENT] alice (Thread-4) -> group (0.0002s) | Response: Enter the password:
+2025-02-03 15:32:40,964 [INFO] [MESSAGE SENT] david (Thread-4) -> group_action (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:40,971 [INFO] [MESSAGE SENT] charlie (Thread-4) -> broadcast (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:40,985 [INFO] [MESSAGE SENT] bob (Thread-1) -> group_action (0.0006s) | Response: You have successfully joined the group group_4.
+2025-02-03 15:32:40,989 [INFO] [MESSAGE SENT] alice (Thread-3) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:41,032 [INFO] [LOGGED IN] eve (Thread-1)
+2025-02-03 15:32:41,033 [INFO] [MESSAGE SENT] eve (Thread-1) -> group (0.0005s) | Response: You are not a member of the group group_7.
+2025-02-03 15:32:41,038 [INFO] [MESSAGE SENT] bob (Thread-2) -> group_action (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:41,060 [INFO] [MESSAGE SENT] david (Thread-3) -> group_action (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:41,073 [INFO] [MESSAGE SENT] alice (Thread-4) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:41,088 [INFO] [MESSAGE SENT] david (Thread-2) -> group (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:41,093 [INFO] [MESSAGE SENT] alice (Thread-2) -> broadcast (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:41,100 [INFO] [MESSAGE SENT] charlie (Thread-5) -> group_action (0.0001s) | Response: Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:41,140 [INFO] [MESSAGE SENT] alice (Thread-5) -> broadcast (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:41,149 [INFO] [MESSAGE SENT] charlie (Thread-4) -> private (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:41,169 [INFO] [MESSAGE SENT] alice (Thread-1) -> private (0.0001s) | Response: bob has joined the group group_4.
+2025-02-03 15:32:41,290 [INFO] [MESSAGE SENT] bob (Thread-1) -> group (0.0007s) | Response: Message sent to group group_4.
+2025-02-03 15:32:41,307 [INFO] [MESSAGE SENT] bob (Thread-5) -> broadcast (0.0002s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:41,339 [INFO] [MESSAGE SENT] charlie (Thread-2) -> broadcast (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:41,345 [INFO] [MESSAGE SENT] bob (Thread-3) -> private (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:41,369 [INFO] [MESSAGE SENT] david (Thread-5) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:41,377 [INFO] [LOGGED OUT] alice (Thread-2)
+2025-02-03 15:32:41,384 [INFO] [MESSAGE SENT] david (Thread-3) -> group_action (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:41,409 [INFO] [MESSAGE SENT] david (Thread-4) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:41,471 [INFO] [MESSAGE SENT] bob (Thread-4) -> group (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:41,472 [INFO] [MESSAGE SENT] charlie (Thread-1) -> private (0.0000s) | Response: Group group_3 does not exist!
+2025-02-03 15:32:41,482 [INFO] [MESSAGE SENT] bob (Thread-2) -> broadcast (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:41,491 [INFO] [MESSAGE SENT] charlie (Thread-3) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:41,514 [INFO] [LOGGED OUT] alice (Thread-3)
+2025-02-03 15:32:41,529 [ERROR] Error with eve (Thread-2): [Errno 111] Connection refused
+2025-02-03 15:32:41,583 [INFO] [MESSAGE SENT] bob (Thread-1) -> private (0.0001s) | Response: 
+2025-02-03 15:32:41,617 [INFO] [MESSAGE SENT] alice (Thread-1) -> group_action (0.0001s) | Response: User frank not found![group_4] bob: Hello from bob (Thread-1)
+2025-02-03 15:32:41,646 [INFO] [MESSAGE SENT] alice (Thread-5) -> group_action (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:41,724 [INFO] [MESSAGE SENT] david (Thread-1) -> broadcast (0.0001s) | Response: 
+2025-02-03 15:32:41,741 [ERROR] Error with charlie (Thread-3): [Errno 32] Broken pipe
+2025-02-03 15:32:41,764 [ERROR] Error with alice (Thread-1): [Errno 32] Broken pipe
+2025-02-03 15:32:41,830 [INFO] [MESSAGE SENT] david (Thread-3) -> group (0.0001s) | Response: 
+2025-02-03 15:32:41,842 [INFO] [MESSAGE SENT] charlie (Thread-5) -> broadcast (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:41,872 [INFO] [MESSAGE SENT] david (Thread-2) -> broadcast (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:41,955 [ERROR] Error with charlie (Thread-1): [Errno 32] Broken pipe
+2025-02-03 15:32:42,001 [INFO] [MESSAGE SENT] alice (Thread-4) -> broadcast (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:42,039 [ERROR] Error with eve (Thread-3): [Errno 111] Connection refused
+2025-02-03 15:32:42,043 [INFO] [MESSAGE SENT] eve (Thread-1) -> broadcast (0.0001s) | Response: 
+2025-02-03 15:32:42,068 [INFO] [MESSAGE SENT] charlie (Thread-4) -> group_action (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:42,097 [INFO] [MESSAGE SENT] bob (Thread-3) -> group_action (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:42,162 [ERROR] Error with bob (Thread-4): [Errno 32] Broken pipe
+2025-02-03 15:32:42,267 [ERROR] Error with david (Thread-4): [Errno 32] Broken pipe
+2025-02-03 15:32:42,273 [INFO] [MESSAGE SENT] bob (Thread-5) -> private (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:42,279 [ERROR] Error with eve (Thread-1): [Errno 32] Broken pipe
+2025-02-03 15:32:42,289 [INFO] [MESSAGE SENT] david (Thread-5) -> group (0.0001s) | Response: Enter the password:
+2025-02-03 15:32:42,312 [INFO] [MESSAGE SENT] charlie (Thread-2) -> private (0.0001s) | Response: Authentication failed!
+
+Welcome to Wazzapp
+
+Enter the username:
+2025-02-03 15:32:42,331 [ERROR] Error with bob (Thread-2): [Errno 32] Broken pipe
+2025-02-03 15:32:42,349 [ERROR] Error with alice (Thread-5): [Errno 32] Broken pipe
+2025-02-03 15:32:42,390 [ERROR] Error with bob (Thread-1): [Errno 32] Broken pipe
+2025-02-03 15:32:42,431 [ERROR] Error with charlie (Thread-5): [Errno 32] Broken pipe
+2025-02-03 15:32:42,522 [ERROR] Error with alice (Thread-4): [Errno 32] Broken pipe
+2025-02-03 15:32:42,559 [ERROR] Error with eve (Thread-4): [Errno 111] Connection refused
+2025-02-03 15:32:42,591 [ERROR] Error with charlie (Thread-2): [Errno 32] Broken pipe
+2025-02-03 15:32:42,611 [ERROR] Error with david (Thread-3): [Errno 32] Broken pipe
+2025-02-03 15:32:42,692 [ERROR] Error with david (Thread-1): [Errno 32] Broken pipe
+2025-02-03 15:32:42,783 [ERROR] Error with david (Thread-2): [Errno 32] Broken pipe
+2025-02-03 15:32:42,794 [ERROR] Error with david (Thread-5): [Errno 32] Broken pipe
+2025-02-03 15:32:42,956 [ERROR] Error with bob (Thread-3): [Errno 32] Broken pipe
+2025-02-03 15:32:43,011 [ERROR] Error with charlie (Thread-4): [Errno 32] Broken pipe
+2025-02-03 15:32:43,066 [ERROR] Error with eve (Thread-5): [Errno 111] Connection refused
+2025-02-03 15:32:43,186 [ERROR] Error with bob (Thread-5): [Errno 32] Broken pipe
+2025-02-03 15:32:43,609 [ERROR] Error with frank (Thread-1): [Errno 111] Connection refused
+2025-02-03 15:32:44,117 [ERROR] Error with frank (Thread-2): [Errno 111] Connection refused
+2025-02-03 15:32:44,655 [ERROR] Error with frank (Thread-3): [Errno 111] Connection refused
+2025-02-03 15:32:45,194 [ERROR] Error with frank (Thread-4): [Errno 111] Connection refused
+2025-02-03 15:32:45,735 [ERROR] Error with frank (Thread-5): [Errno 111] Connection refused
+2025-02-03 15:32:46,278 [ERROR] Error with grace (Thread-1): [Errno 111] Connection refused
+2025-02-03 15:32:46,821 [ERROR] Error with grace (Thread-2): [Errno 111] Connection refused
+2025-02-03 15:32:47,326 [ERROR] Error with grace (Thread-3): [Errno 111] Connection refused
+2025-02-03 15:32:47,827 [ERROR] Error with grace (Thread-4): [Errno 111] Connection refused
+2025-02-03 15:32:48,328 [ERROR] Error with grace (Thread-5): [Errno 111] Connection refused
+2025-02-03 15:32:48,829 [INFO] 
+--- Stress Test Summary ---
+2025-02-03 15:32:48,830 [INFO] Total Clients: 7
+2025-02-03 15:32:48,831 [INFO] Total Messages Sent: 234
+2025-02-03 15:32:48,832 [INFO] Authentication Success: 21
+2025-02-03 15:32:48,833 [INFO] Authentication Failures: 0
+2025-02-03 15:32:48,834 [INFO] Errors Encountered: 33
+2025-02-03 15:32:48,835 [INFO] Average Response Time: 0.0258 sec
+2025-02-03 15:32:48,836 [INFO] Message Throughput: 1.67 messages/sec
