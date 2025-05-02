@@ -2,6 +2,6 @@ Assignment Submissions for the course CS425: Computer Networks 2024-25-2, IIT Ka
 
 Contributors:
 
-Shraman Das,
 Ravija Chandel,
-Shaurya Singh
+Shaurya Singh,
+Shraman Das
